@@ -1,5 +1,6 @@
 ## Group 9 - README File
 ### Path to Victory – Factors that Make Winning Teams in the National Football League
+![Path to Victory!](victory.png "Text to show on mouseover")
 ### Group Members:  Miguel Avila, Genna Moellering, Shaorui Pi
 
 This project analyzes the factors that make a team win, comparing Home Field Advantage, Affordability, Player's Behavior, and Coaching Leadership to the actual number of wins each team had throughout the seasons.  
