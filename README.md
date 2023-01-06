@@ -14,7 +14,7 @@ Each of these questions is answered in a separate Jupyter Notebook, since we nee
 - Question 1: 2010-2015
 - Question 2: 1950-2022 
 
-### Question 1
+### Question 1 - https://github.com/gmoellering/NFL_EDA_Final_Project/blob/main/Notebooks%20%26%20HTML/Question%201%20Final.ipynb
 
 In this question we are analyzing the factors that affect the teams' success. To fully answer this question, we explored the 'Elo' dataset and the 'NFL Favorite Teams' dataset. Combining these two data sets allows us to use the 'NFL Favorite Teams' unique ratings for each team across a broad array of categories, and compare those ratings against the teams' winning rate. The following is a summary of the contents of this Jupyter Notebook:
 
@@ -41,7 +41,7 @@ In this question we are analyzing the factors that affect the teams' success. To
 - Radar chart comparing the most winning team (New England) against the most losing team (Jacksonville)
 
 
-### Question 2
+### Question 2 - https://github.com/gmoellering/NFL_EDA_Final_Project/blob/main/Notebooks%20%26%20HTML/Question%202%20Final.ipynb
 
 For this question, our team is evaluating the accuracy of the NFL's Elo rating system, which is designed to assess teams' relative skill level and predict game outcomes based on previous wins and losses. The following is a summary of the contents of this Jupyter Notebook:
 
