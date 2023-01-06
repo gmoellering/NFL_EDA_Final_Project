@@ -1,7 +1,10 @@
-## Group 9 - README File
+## NFL Exploring and Visualizing Data Project - README File
+
+This group project was the culminating assignment for an Exploring and Visualizing Data Course. It explored and analyzed NFL Data from 1950 to 2022. 
+
 ### Path to Victory – Factors that Make Winning Teams in the National Football League
 ![Path to Victory!](victory.png "Text to show on mouseover")
-### Group Members:  Miguel Avila, Genna Moellering, Shaorui Pi
+### Group Members:  Genna Moellering, Miguel Avila, Shaorui Pi
 
 This project analyzes the factors that make a team win, comparing Home Field Advantage, Affordability, Player's Behavior, and Coaching Leadership to the actual number of wins each team had throughout the seasons.  
 
