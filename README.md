@@ -1,6 +1,6 @@
 ## NFL Exploring and Visualizing Data Project - README File
 
-This group project was the culminating assignment for an Exploring and Visualizing Data Course. It explored and analyzed NFL Data from 1950 to 2022. 
+This group project was the culminating assignment for an Exploring and Visualizing Data course. The EDA and visualizations use FiveThirtyEight NFL datasets from 1950 to 2022. 
 
 ### Path to Victory – Factors that Make Winning Teams in the National Football League
 ![Path to Victory!](victory.png "Text to show on mouseover")
